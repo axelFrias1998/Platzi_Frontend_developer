@@ -36,6 +36,8 @@ Describe your project
 The following sources were used in this project:
 
 - [Quantum CSS](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+- [HTML Semántico](https://www.espai.es/blog/2018/01/que-es-el-html-semantico/)
+
 
 ## :rocket: Technologies ##
 
@@ -65,7 +67,7 @@ $ yarn start
 
 ## :memo: License ##
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Axel | Suripanta</a>
 
 &#xa0;
 
