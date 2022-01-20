@@ -37,6 +37,8 @@ The following sources were used in this project:
 
 - [Quantum CSS](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 - [HTML Semántico](https://www.espai.es/blog/2018/01/que-es-el-html-semantico/)
+- [HTML Reference](https://htmlreference.io/)
+- [Pexels imágenes](https://www.pexels.com/)
 
 
 ## :rocket: Technologies ##
