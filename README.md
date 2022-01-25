@@ -40,6 +40,8 @@ The following sources were used in this project:
 - [HTML Reference](https://htmlreference.io/)
 - [Pexels imágenes](https://www.pexels.com/)
 - [HTML Color Codes](https://htmlcolorcodes.com/)
+- [CSS pseudo Class Selector](https://css-tricks.com/pseudo-class-selectors/)
+- [CSS Specificity calculator](https://specificity.keegan.st/)
 
 
 ## :rocket: Technologies ##
