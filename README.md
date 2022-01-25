@@ -42,7 +42,7 @@ The following sources were used in this project:
 - [HTML Color Codes](https://htmlcolorcodes.com/)
 - [CSS pseudo Class Selector](https://css-tricks.com/pseudo-class-selectors/)
 - [CSS Specificity calculator](https://specificity.keegan.st/)
-
+- [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## :rocket: Technologies ##
 
