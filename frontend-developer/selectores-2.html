@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div p {
+            color: indianred;
+        }
+        div > div {
+            background: gray;
+        }
+        .wololo {
+            background: blueviolet;
+        }
+        div + section {
+            background: cadetblue;
+        }
+        div ~ p {
+            color: brown;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>
+            Selector combinador: Todos los p que estén dentro de div
+        </p>
+        <p>Wololoo</p>
+        <div>
+            Selector de hijo
+            Sólo el hijo directo. Los div que estén dentro y seguido de él
+            <p>Un hijo directo</p>
+            <div class="wololo">Wololo 2</div>
+        </div>
+        <p>Todos los hermanos p después de div</p>
+    </div>
+    <section>
+        Selector adyacente
+        Quiero taquitos (sólo el section adyacente del div)
+    </section>
+    <section>
+        Quiero taquitos
+    </section>
+</body>
+</html>

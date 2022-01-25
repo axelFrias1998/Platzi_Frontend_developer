@@ -39,6 +39,7 @@ The following sources were used in this project:
 - [HTML Semántico](https://www.espai.es/blog/2018/01/que-es-el-html-semantico/)
 - [HTML Reference](https://htmlreference.io/)
 - [Pexels imágenes](https://www.pexels.com/)
+- [HTML Color Codes](https://htmlcolorcodes.com/)
 
 
 ## :rocket: Technologies ##
@@ -46,6 +47,7 @@ The following sources were used in this project:
 The following tools were used in this project:
 
 - [HTML](https://expo.io/)
+
 
 
 ## :checkered_flag: Starting ##
